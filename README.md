@@ -371,6 +371,7 @@ As you've seen, SAAAM allows you to:
 With these tools, you can start creating your own games with SAAAM. Remember to check the [SAAAM Language Specification](saaam-language-spec.html) for detailed information about all available functions and features.
 
 Happy game developing!
+
 saaam
 // My first SAAAM program
 SAAAM.registerCreate(create);
