@@ -10,10 +10,9 @@ This tutorial will guide you through the basics of SAAAM, starting with simple c
 
 To start using SAAAM, you'll need:
 
-1. The SAAAM Game Studio (which includes the SAAAM code editor and engine)
-2. A basic understanding of programming concepts
-
-If you haven't installed SAAAM Game Studio yet, download it from [saaamstudio.com](https://saaamstudio.com) and follow the installation instructions.
+1. The SAAAM Game Studio (which includes the SAAAM code editor and engine) ---Your in ther right place
+2. A very basic understanding of programming concepts
+3. A Browser
 
 ## Your First SAAAM Program
 
